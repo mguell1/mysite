@@ -5,8 +5,14 @@ background-size: cover;
 }
 h3{
 font-size:60px;
+font-variant:small-caps;
+border-width:200px;
+border:10px ridge black;
+display:inline;
+background:white;
 }
 h1{
+font-family:Impact, Charcoal, sans-serif;
 text-decoration:underline;
 }
 img{
